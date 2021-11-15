@@ -6,7 +6,7 @@ The purpose is to have a full hands-on session of React Native to masterize all 
 - [Exercice 1](exo-1/README.md) √
 - [Exercice 2](exo-2/README.md) √
 - [Exercice 3](exo-3/README.md)
-- [Exercice 4](exo-4/README.md)
+- [Exercice 4](exo-4/README.md) √
 - [Exercice 5](exo-5/README.md)
 - [Exercice 6](exo-6/README.md)
 - [Exercice 7](exo-7/README.md)
