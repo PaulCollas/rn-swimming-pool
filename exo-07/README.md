@@ -21,3 +21,8 @@ https://reactnavigation.org/docs/en/getting-started.html
 To create this app you will need to use this new element :
 
 > Navigation : https://reactnavigation.org/docs/en/navigating.html
+
+# Install dependecies for nav
+
+> npm install @react-navigation/native
+> npm install react-native-screens react-native-safe-area-context
