@@ -3,8 +3,8 @@ Learn React-Native
 The purpose is to have a full hands-on session of React Native to masterize all fundamentals.
 # Workshop 
 
-- [Exercice 1](exo-1/README.md)
-- [Exercice 2](exo-2/README.md)
+- [Exercice 1](exo-1/README.md) √
+- [Exercice 2](exo-2/README.md) √
 - [Exercice 3](exo-3/README.md)
 - [Exercice 4](exo-4/README.md)
 - [Exercice 5](exo-5/README.md)

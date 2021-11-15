@@ -1,0 +1,19 @@
+{
+  "name": "exo-02",
+  "version": "1.0.0",
+  "description": "Learn React-Native\r # Overwiew \r The purpose is to have a full hands-on session of React Native to masterize all fundamentals.\r # Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulCollas/rn-swimming-pool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulCollas/rn-swimming-pool/issues"
+  },
+  "homepage": "https://github.com/PaulCollas/rn-swimming-pool#readme"
+}
