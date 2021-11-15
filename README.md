@@ -1,10 +1,6 @@
 Learn React-Native
-
-# Summary
-
-
 # Overwiew 
-
+The purpose is to have a full hands-on session of React Native to masterize all fundamentals.
 # Workshop 
 
 - [Exercice 1](exo-1/README.md)
