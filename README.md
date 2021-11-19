@@ -8,9 +8,8 @@ The purpose is to have a full hands-on session of React Native to masterize all 
 - [Exercice 3](exo-3/README.md)
 - [Exercice 4](exo-4/README.md) √
 - [Exercice 5](exo-5/README.md)
-- [Exercice 6](exo-6/README.md)
-- [Exercice 7](exo-7/README.md)
-- [Exercice 8](exo-8/README.md)
+- [Exercice 7](exo-7/README.md) √
+- [Exercice 8](exo-8/README.md) √
 - [Exercice 9](exo-9/README.md)
 - [Exercice 10](exo-10/README.md)
 - [Exercice 11](exo-11/README.md)
